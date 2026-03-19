@@ -10,7 +10,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=0e75b6&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=Delcio1760&color=0e75b6&style=flat)
 
 </div>
 
