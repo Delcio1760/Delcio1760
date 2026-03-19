@@ -91,7 +91,7 @@ const me = {
 
 <div align="center">
 
-[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_UID&cover_image=true&theme=default&show_offline=false&background_color=ffffff&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31avlscb2mgvtjyxvum5nu6mviue&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false)](https://github.com/kittinan/spotify-github-profile)
 
 </div>
 
