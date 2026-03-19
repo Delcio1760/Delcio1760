@@ -26,8 +26,16 @@ const me = {
   course:     "TSIW",
   location:   "Portugal 🇵🇹",
 
-  currentlyLearning: ["Node.js", "REST APIs", "Express.js"],
-  alreadyKnow:       ["Python", "JavaScript", "Vue 3", "MySQL"],
+   currentlyLearning: [
+    "Node.js", "Web Testing & Performance",
+    "Machine Learning"
+  ],
+
+alreadyKnow: [
+    "Python", "JavaScript", "HTML5", "CSS3",
+    "Vue 3", "MySQL", "MongoDB", "Figma",
+    "Software Engineering" // UML, class diagrams, sequence diagrams...
+  ],
 
   lookingFor: "Internship / Junior Dev opportunities",
   funFact:    "I debug with console.log and I'm not ashamed 😄"
@@ -99,11 +107,13 @@ const me = {
 
 ---
 
-## 📈 Currently Learning
+## 📈 Currently Learning This Semester
 
-- 🟡 **Node.js** — building REST APIs with Express
-- 🟢 **Vue 3** — deepening knowledge from university
-- 🔵 **MySQL** — queries, joins, relational modeling
+| Topic | Status |
+|---|---|
+| 🟡 Node.js | In progress |
+| 🧪 Web Testing & Performance | In progress |
+| 🤖 Machine Learning | In progress |
 
 ---
 
